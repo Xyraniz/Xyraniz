@@ -22,7 +22,7 @@ Hey! I'm someone who loves learning and exploring other people's code. I'm alway
 <a href="https://www.instagram.com/lowmourne/?hl=es">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@necroharm">
+<a href="https://www.tiktok.com/@necroharm?_r=1&_t=ZS-91JtG3l4ktN">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
 <a href="https://www.youtube.com/@Xyraniz">
