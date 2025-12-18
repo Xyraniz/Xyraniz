@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Xyraniz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="margin: 20px 0;">
-  <img width="80%" alt="Tech banner" src="https://raw.githubusercontent.com/Xyraniz/Synergy-Hub/refs/heads/main/Banner_SynergyHub.jpg" />
+  <img width="80%" alt="Tech banner" src="https://raw.githubusercontent.com/Xyraniz/Xyraniz/refs/heads/main/digicamfx-original-2025-12-16T05-52-30.jpeg" />
 </div>
 
 ## About Me
