@@ -19,7 +19,7 @@ Hey! I'm someone who loves learning and exploring other people's code. I'm alway
 
 ## Social Media
 
-<a href="https://www.instagram.com/lowmourne/?hl=es">
+<a href="https://www.instagram.com/deskonsertaooo/?hl=es">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@necroharm?_r=1&_t=ZS-91JtG3l4ktN">
@@ -28,3 +28,9 @@ Hey! I'm someone who loves learning and exploring other people's code. I'm alway
 <a href="https://www.youtube.com/@Xyraniz">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">
 </a>
+
+
+## GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Xyraniz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Xyraniz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Xyraniz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
