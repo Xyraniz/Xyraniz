@@ -7,7 +7,7 @@
     <a href="https://github.com/Xyraniz">
       <img src="https://img.shields.io/badge/GitHub-Xyraniz-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
     </a>
-    <a href="mailto:xyraniz22@gmail.com">
+    <a href="mailto:xyraniz@protonmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://guns.lol/xyraniz">
@@ -30,7 +30,7 @@ At the moment, I am focusing on improving my skills with **NestJS** and **Angula
 
 - I am continuously learning and expanding beyond my current toolset.
 
-- You can reach me at [**xyraniz22@gmail.com**](mailto:xyraniz22@gmail.com).
+- You can reach me at [**xyraniz@protonmail.com**](mailto:xyraniz@protonmail.com).
 
 ## Featured projects
 
@@ -39,9 +39,7 @@ At the moment, I am focusing on improving my skills with **NestJS** and **Angula
 | [UI-Libs](https://github.com/Xyraniz/UI-Libs) | A collection of free UI libraries for Roblox projects. | Lua |
 | [RepoWarden](https://github.com/Xyraniz/RepoWarden) | A Python project created as part of my current experimentation and learning. | Python |
 | [Fengetheus](https://github.com/Xyraniz/Fengetheus) | An active Lua project that reflects my continued work in the Roblox ecosystem. | Lua |
-| [Dmvs-web](https://github.com/Xyraniz/Dmvs-web) | A web-focused project and space for experimenting with frontend development. | HTML |
 | [Roblox](https://github.com/Xyraniz/Roblox) | A collection of Roblox-related work and experiments. | Lua |
-| [Vencord](https://github.com/Xyraniz/Vencord) | A project focused on customization and frontend experimentation. | CSS |
 
 > Some projects are experiments, works in progress, or learning projects. Their purpose is to document my progress and share what I build.
 
@@ -69,7 +67,7 @@ At the moment, I am focusing on improving my skills with **NestJS** and **Angula
 ## Connect with me
 
 <p>
-<a href="mailto:xyraniz22@gmail.com">
+<a href="mailto:xyraniz@protonmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/deskonsertaooo/?hl=es">
