@@ -32,63 +32,20 @@ At the moment, I am focusing on improving my skills with **NestJS** and **Angula
 
 - You can reach me at [**xyraniz@protonmail.com**](mailto:xyraniz@protonmail.com).
 
-## Featured projects
+## Languages
 
-| Project | Description | Main technology |
-| --- | --- | --- |
-| [UI-Libs](https://github.com/Xyraniz/UI-Libs) | A collection of free UI libraries for Roblox projects. | Lua |
-| [RepoWarden](https://github.com/Xyraniz/RepoWarden) | A Python project created as part of my current experimentation and learning. | Python |
-| [Fengetheus](https://github.com/Xyraniz/Fengetheus) | An active Lua project that reflects my continued work in the Roblox ecosystem. | Lua |
-| [Roblox](https://github.com/Xyraniz/Roblox) | A collection of Roblox-related work and experiments. | Lua |
-
-> Some projects are experiments, works in progress, or learning projects. Their purpose is to document my progress and share what I build.
-
-## Technologies and tools
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p> <p align="center">
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Currently exploring
-
-<p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## Connect with me
-
-<p>
-<a href="mailto:xyraniz@protonmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/deskonsertaooo/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.tiktok.com/@necroharm">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.youtube.com/@Xyraniz">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
-## GitHub statistics
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Xyraniz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xyraniz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div> <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Xyraniz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p> <p align="center">
+  
+## Statistics
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Xyraniz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Xyraniz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</p> <p align="center">
 
 ## A little more about this profile
 
