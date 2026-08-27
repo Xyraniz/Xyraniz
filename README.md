@@ -10,9 +10,6 @@
     <a href="mailto:xyraniz@protonmail.com">
       <img src="https://img.shields.io/badge/Email-xyraniz%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Xyraniz" />
     </a>
-    <a href="https://guns.lol/xyraniz">
-      <img src="https://img.shields.io/badge/Website-guns.lol%2Fxyraniz-5865F2?style=for-the-badge" alt="Personal website" />
-    </a>
   </p>
 </div>
 
@@ -22,11 +19,15 @@
 
 ## What I work on
 
-Most of my projects start with curiosity: how a runtime handles a value, how a UI library should expose its state, how a launcher can update itself without leaving a broken install, or how a repository can explain its own health. I like following those questions far enough to make the result usable, testable, and easy to inspect.
+Most of my projects start with a very specific question: how a runtime handles a value, how a UI library should expose its state, how a launcher can update itself without leaving a broken install, or how a repository can explain its own health. I like following those questions far enough to make the result usable, testable, and easy to inspect.
 
-Right now, my public work is split between **Lua/Roblox libraries**, **language and runtime experiments**, and **small tools with a clear job to do**. Some repositories are experiments, archives, or work in progress; I keep them public because they document how the projects change instead of pretending everything is a finished product.
+My public work is mainly split between **Lua/Roblox libraries**, **language and runtime experiments**, and **small tools with a clear job to do**. Some repositories are experiments, archives, or work in progress; I keep them public because they document how the projects change instead of pretending everything is a finished product.
 
-## Selected work
+## How I tend to build
+
+I prefer explicit state over hidden magic, small modules over one giant abstraction, and behavior that can be reproduced from the repository. That is why my projects often include their own CLI, examples, generated reference files, health checks, or tests. The code does not always look identical across repositories — some are new systems, some are older scripts, and some preserve other people's work — but the common thread is trying to understand the moving parts instead of hiding them.
+
+## A few things I've built
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -38,6 +39,23 @@ Right now, my public work is split between **Lua/Roblox libraries**, **language 
 | [SynergyStrapper](https://github.com/Xyraniz/SynergyStrapper) | An independent Windows bootstrapper for Roblox Player and Studio, with reversible settings, diagnostics, and verified GitHub release updates. | C# · WPF |
 | [VaultUI](https://github.com/Xyraniz/VaultUI) | A browsable archive of Roblox UI libraries, preserved sources, runnable examples, and showcase links. | Lua · JavaScript |
 
+## Project signals
+
+<p align="center">
+  <a href="https://github.com/Xyraniz/VaultUI">
+    <img src="https://img.shields.io/github/stars/Xyraniz/VaultUI?style=for-the-badge&label=VaultUI%20stars&color=gold" alt="VaultUI stars" />
+  </a>
+  <a href="https://github.com/Xyraniz/LuaNode-VM">
+    <img src="https://img.shields.io/github/stars/Xyraniz/LuaNode-VM?style=for-the-badge&label=LuaNode-VM%20stars&color=6D4AFF" alt="LuaNode-VM stars" />
+  </a>
+  <a href="https://github.com/Xyraniz/Kryndel">
+    <img src="https://img.shields.io/github/commit-activity/y/Xyraniz/Kryndel?style=for-the-badge&label=Kryndel%20commits&color=00ADD8" alt="Kryndel commits in the last year" />
+  </a>
+  <a href="https://github.com/Xyraniz/SynergyUI">
+    <img src="https://img.shields.io/github/last-commit/Xyraniz/SynergyUI?style=for-the-badge&label=SynergyUI%20updated&color=5865F2" alt="SynergyUI last update" />
+  </a>
+</p>
+
 ## Languages I keep reaching for
 
 <p>
@@ -46,17 +64,6 @@ Right now, my public work is split between **Lua/Roblox libraries**, **language 
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
-</p>
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xyraniz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Xyraniz's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xyraniz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=Xyraniz" alt="Xyraniz's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xyraniz&theme=tokyonight&hide_border=true" alt="Xyraniz's GitHub contribution streak" />
 </p>
 
 ## Contact
