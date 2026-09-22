@@ -39,19 +39,19 @@ My public repositories range from larger tooling projects to small experiments a
 
 ### [Kryndel](https://github.com/Xyraniz/Kryndel)
 
-A statically checked language and runtime for developer tools and structured applications. The repository includes the compiler, checker, runtime, standard-library wrappers, package tooling, and a command-line executable, all implemented in Go.
+statically checked programming language with its own compiler, runtime and package system, built for developer tools and structured applications. It supports native Windows and Linux executables, concurrency, FFI, crypto, modules and an ongoing self-hosting compiler
 
 ### [Lumora](https://github.com/Xyraniz/Lumora)
 
-A standalone Luau runtime written in C++ for running, inspecting, and validating scripts outside Roblox Studio. It includes a Roblox-shaped compatibility layer, optional sandboxing, analysis commands, embedded modules, and an optional SDL2 visual mode.
+Luau runtime for running scripts outside Roblox Studio, with Roblox-shaped APIs, executor-compatible functions, sandboxing, native modules and local require support
 
 ### [ByteVeil](https://github.com/Xyraniz/ByteVeil)
 
-A C++ command-line tool for static inspection and partial decompilation of Lua 5.1 and Luau bytecode. It can expose instructions, constants, prototypes, control-flow information, and other metadata without executing the analyzed program.
+tool for exploring Lua 5.1 and Luau bytecode, It can reconstruct source, inspect IR/CFG/SSA, spot protector patterns, and statically extract MoonSec V3 serialized payloads while leaving unsupported or uncertain parts visible instead of guessing
 
 ### [LuaNode-VM](https://github.com/Xyraniz/LuaNode-VM)
 
-A Lua 5.3 virtual machine and standard library implemented in JavaScript, with a Node.js CLI and conformance/regression tests. It also handles Lua 5.3 integer semantics with exact signed 64-bit values through JavaScript `BigInt`.
+Lua 5.3 VM and standard library in modern JavaScript, with Node.js CLI support and exact signed 64-bit integer semantics
 
 ### [Mooncord](https://github.com/Xyraniz/Mooncord)
 
@@ -90,5 +90,5 @@ You can find the complete list of public repositories on my [GitHub profile](htt
 </p>
 
 <div align="center">
-  <i>Thanks for stopping by.</i>
+  <i>Thanks for the visit</i>
 </div>
