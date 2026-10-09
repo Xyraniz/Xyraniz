@@ -53,10 +53,6 @@ tool for exploring Lua 5.1 and Luau bytecode, It can reconstruct source, inspect
 
 Lua 5.3 VM and standard library in modern JavaScript, with Node.js CLI support and exact signed 64-bit integer semantics
 
-### [Mooncord](https://github.com/Xyraniz/Mooncord)
-
-A focused Discord desktop client with its own shell, tabs, window controls, a dark visual system, DevTools access, and Vencord integration. It loads Discord's web client and is not affiliated with Discord Inc.
-
 ### [VaultUI](https://github.com/Xyraniz/VaultUI)
 
 A catalog of Roblox UI libraries collected with source files where available, usage examples, and visual previews. The project also has a web catalogue at [xyraniz.github.io/VaultUI](https://xyraniz.github.io/VaultUI/).
