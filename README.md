@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Xyraniz 👋</h1>
   <p>
-    I build tools around Lua/Luau, runtimes, code analysis, and desktop software.
+    i just make scripts for roblox and whatever random stuff i come up with when i’m bored, own of synergy hub
   </p>
   <p>
     <a href="https://github.com/Xyraniz">
@@ -22,9 +22,7 @@
 
 ## About
 
-I learn by building things that sit close to the runtime: language tooling, Lua/Luau runtimes, bytecode analysis, and small desktop applications. A lot of my work connects back to the Roblox ecosystem, but the common thread is understanding how software behaves and turning that understanding into usable tools.
-
-My public repositories range from larger tooling projects to small experiments and curated resources, each at a different stage of development.
+i focus on anything roblox related, whatever could be useful to someone, i learned a lot just exploring github, i like rust and luau way too much
 
 ## What I work with
 
